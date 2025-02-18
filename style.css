@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+}
+body{
+	text-align: center;
+	font-family: "DM Sans", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	color: #429B76;
+	background-color: #ABD3D8;
+}
+.container{
+	padding: 30px;
+	margin: 60px;
+	border-radius: 19px;
+}
